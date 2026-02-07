@@ -1,0 +1,10 @@
+tier.stranger=Stranger
+tier.neighbour=Neighbor
+tier.friend=Friend
+tier.bestie=Bestie
+
+command.cozy.rep.no_target=Look at a villager first.
+command.cozy.rep.status=Familiarity with %s: %d (%s)
+
+command.cozy.favor.none=You have no active favor.
+command.cozy.favor.status=Active favor: %s

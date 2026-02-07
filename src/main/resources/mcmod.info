@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "cozyvillagers",
+    "name": "Cozy Villagers",
+    "version": "${version}",
+    "description": "Adds cozy villager dialogue, familiarity, favours and ambient life.",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Koen"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
