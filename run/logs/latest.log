@@ -1,68 +1,41 @@
-[11:05:57] [Client thread/INFO]: Setting user: Player515
-[11:05:59] [Client thread/INFO]: LWJGL Version: 2.9.4
-[11:06:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cozy Villagers
-[11:06:01] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[11:06:01] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[11:06:01] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[11:06:01] [Thread-9/INFO]: OpenAL initialized.
-[11:06:01] [Sound Library Loader/INFO]: Sound engine started
-[11:06:03] [Client thread/INFO]: Created: 16x16 textures-atlas
-[11:06:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cozy Villagers
-[11:06:03] [Client thread/INFO]: SoundSystem shutting down...
-[11:06:03] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[11:06:03] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[11:06:03] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[11:06:03] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[11:06:03] [Thread-11/INFO]: OpenAL initialized.
-[11:06:04] [Sound Library Loader/INFO]: Sound engine started
-[11:06:05] [Client thread/INFO]: Created: 512x512 textures-atlas
-[11:06:22] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
-[11:06:22] [Server thread/INFO]: Generating keypair
-[11:06:22] [Server thread/INFO]: Preparing start region for level 0
-[11:06:22] [Server thread/INFO]: Changing view distance to 12, from 10
-[11:06:23] [Server thread/INFO]: Player515[local:E:6367601f] logged in with entity id 264 at (106.65380734829947, 72.0, 316.14501122924594)
-[11:06:23] [Server thread/INFO]: Player515 joined the game
-[11:15:12] [Server thread/INFO]: [Player515: Set the time to 1000]
-[11:15:12] [Client thread/INFO]: [CHAT] Set the time to 1000
-[11:15:15] [Server thread/INFO]: Player515 has just earned the achievement [Taking Inventory]
-[11:15:15] [Client thread/INFO]: [CHAT] Player515 has just earned the achievement [Taking Inventory]
-[11:15:15] [Server thread/INFO]: Saving and pausing game...
-[11:15:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:15:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:15:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:15:27] [Client thread/INFO]: [CHAT] New favor: Bring: 10 wheat OR 6 bread OR 8 carrots
-[11:17:03] [Client thread/INFO]: [CHAT] You already have an active favor.
-[11:17:35] [Server thread/INFO]: Saving and pausing game...
-[11:17:35] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:17:35] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:17:35] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:32:27] [Server thread/INFO]: Saving and pausing game...
-[11:32:27] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:32:27] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:32:27] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:32:49] [Client thread/INFO]: [CHAT] You already have an active favor.
-[11:33:43] [Server thread/INFO]: [Player515: Changing to clear weather]
-[11:33:43] [Client thread/INFO]: [CHAT] Changing to clear weather
-[11:34:33] [Server thread/INFO]: [Player515: Set Player515's spawn point to (123, 79, 320)]
-[11:34:33] [Client thread/INFO]: [CHAT] Set Player515's spawn point to (123, 79, 320)
-[11:34:44] [Server thread/INFO]: Saving and pausing game...
-[11:34:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:34:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:34:44] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:36:41] [Server thread/INFO]: Saving and pausing game...
-[11:36:41] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:36:41] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:36:41] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:37:31] [Server thread/INFO]: Saving and pausing game...
-[11:37:31] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:37:31] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:37:31] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:37:32] [Server thread/INFO]: Stopping server
-[11:37:32] [Server thread/INFO]: Saving players
-[11:37:32] [Server thread/INFO]: Saving worlds
-[11:37:32] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[11:37:32] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[11:37:32] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[11:37:33] [Client thread/INFO]: Stopping!
-[11:37:33] [Client thread/INFO]: SoundSystem shutting down...
-[11:37:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:16:24] [Client thread/INFO]: Setting user: Player406
+[12:16:25] [Client thread/INFO]: LWJGL Version: 2.9.4
+[12:16:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cozy Villagers
+[12:16:27] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:16:27] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[12:16:27] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:16:28] [Thread-9/INFO]: OpenAL initialized.
+[12:16:28] [Sound Library Loader/INFO]: Sound engine started
+[12:16:30] [Client thread/INFO]: Created: 16x16 textures-atlas
+[12:16:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Cozy Villagers
+[12:16:31] [Client thread/INFO]: SoundSystem shutting down...
+[12:16:31] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:16:31] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:16:31] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[12:16:31] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:16:31] [Thread-11/INFO]: OpenAL initialized.
+[12:16:31] [Sound Library Loader/INFO]: Sound engine started
+[12:16:33] [Client thread/INFO]: Created: 512x512 textures-atlas
+[12:16:38] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[12:16:38] [Server thread/INFO]: Generating keypair
+[12:16:39] [Server thread/INFO]: Preparing start region for level 0
+[12:16:39] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:16:40] [Server thread/INFO]: Player406[local:E:497d8dd1] logged in with entity id 304 at (114.77321379685486, 71.0, 285.97738839781715)
+[12:16:40] [Server thread/INFO]: Player406 joined the game
+[12:16:42] [Server thread/INFO]: Saving and pausing game...
+[12:16:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:16:42] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:16:42] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:16:42] [Client thread/INFO]: Stopping!
+[12:16:42] [Client thread/INFO]: SoundSystem shutting down...
+[12:16:42] [Server thread/INFO]: Stopping server
+[12:16:42] [Server thread/INFO]: Saving players
+[12:16:42] [Server thread/INFO]: Saving worlds
+[12:16:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:16:42] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:16:42] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:16:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:16:43] [Client Shutdown Thread/INFO]: Stopping server
+[12:16:43] [Client Shutdown Thread/INFO]: Saving players
+[12:16:43] [Client Shutdown Thread/INFO]: Saving worlds
+[12:16:43] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld
